@@ -33,12 +33,6 @@ and on the other,
 npm run server
 ```
 
-### To build for production
-
-```
-npm run build
-```
-
 
 ## Project Link: 
 Please visit: https://barathvelmu.github.io/remind-me/
