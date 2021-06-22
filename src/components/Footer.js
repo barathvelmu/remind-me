@@ -4,7 +4,7 @@ const Footer = () => {
     return (
         <footer>
             <p>React Practice</p>
-            <Link to ="/about">More Info</Link>
+            <Link to ="/about">Project Info</Link>
         </footer>
     )
 }
