@@ -2,6 +2,8 @@
 ## Introduction
 Hello! Thanks for visiting this project! 
 
+*Project was built using JavaScript, CSS, JSX, React, JSON Server.*
+
 The purpose of this Reminder Application was to learn React and get familiar with React Hooks. I adopted a component-focused design pattern (breaking application 
 into components) to truly grasp the power of React. This was my first experience with "thinking in components". This project has been deployed [here](https://barathvelmu.github.io/remind-me/). 
 
